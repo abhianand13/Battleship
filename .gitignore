@@ -1,6 +1,8 @@
 .vs
 Battleship/bin
 Battleship/obj
+BattleshipGame.Test/bin
+BattleshipGame.Test/obj
 TestResults
 
 *.exe
