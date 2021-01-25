@@ -1,0 +1,13 @@
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\BattleshipGame.exe
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\web.config
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\BattleshipGame.dll
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\BattleshipGame.deps.json
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\BattleshipGame.runtimeconfig.json
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\BattleshipGame.pdb
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\Battleship\Battleship\obj\Release\netcoreapp3.1\PubTmp\Out\BattleshipGame.xml

@@ -1,0 +1,4 @@
+D:\Code\Battleship\Battleship\obj\Debug\netcoreapp2.2\Battleship.csprojAssemblyReference.cache
+D:\Code\Battleship\Battleship\obj\Debug\netcoreapp2.2\Battleship.AssemblyInfoInputs.cache
+D:\Code\Battleship\Battleship\obj\Debug\netcoreapp2.2\Battleship.AssemblyInfo.cs
+D:\Code\Battleship\Battleship\obj\Debug\netcoreapp2.2\Battleship.csproj.CoreCompileInputs.cache
