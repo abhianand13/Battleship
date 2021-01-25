@@ -1,6 +1,7 @@
 ./Battleship/bin
-./Battleship/bin
+./Battleship/obj
 ./TestResults
+./vs
 
 *.exe
 *.pdb
